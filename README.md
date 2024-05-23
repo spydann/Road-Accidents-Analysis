@@ -29,7 +29,6 @@ Analyzed road accident data from the Nigeria Bureau of Statistics for the four q
 The analysis led to actionable insights and recommendations aimed at reducing road accident fatalities and improving public safety through targeted interventions and strategic decision-making.
 
 **Links:**
-- [Google slides]
-(https://docs.google.com/presentation/d/1mDxmI3CR07i-CTgMRzafd3qPvHvwFHfBulwhjJ41KpI/edit?usp=drivesdk)
+- [Google slides](https://docs.google.com/presentation/d/1mDxmI3CR07i-CTgMRzafd3qPvHvwFHfBulwhjJ41KpI/edit?usp=drivesdk)
 - [Power BI Visualizations](https://app.powerbi.com/view?r%3DeyJrIjoiODRkNTAwNTAtMGFiYS00M2E5LWExMmMtNjg3OGJkODY0YWYyIiwidCI6IjFiYTIwODY1LWY3ZWYtNGM0Mi1hOTNjLTlhNGFjZGI0YzM2ZSJ9%26pageName%3DReportSection)
 - [GitHub Repository](https://github.com/spydann/Road-Accidents-Analysis/blob/1f031f5c1ef21cf591b68ae1d2d2d3f5e38c7f31/Road%2520Accident%2520Analysis/Road%2520Accidents.ipynb)
